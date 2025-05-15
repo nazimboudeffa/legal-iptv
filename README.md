@@ -1,7 +1,5 @@
 # LEGAL IPTV
 
-Those are the channels that I am adding in our LEGAL IPTV
+Those are the channels that I am to see if they work
 
-Xtream Codes for a trial are available on my LinkedIn profile
-
-Also, you will find all the files that we use here, so you can create your own
+You can use IP Smarters PRO for example and load the m3u files
