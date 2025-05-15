@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports",Sport En France (1080p)
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-name="Arte Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/12px-Arte_Logo_2017.svg.png" tvg-id="ARTEFrench.fr" group-title="France",Arte Ⓖ
+#EXTINF:-1 tvg-name="Arte Ⓖ" tvg-logo="" tvg-id="ARTEFrench.fr" group-title="France",Arte Ⓖ
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/NcysrWH.png" tvg-id="TV5MondeInfo.fr" group-title="France",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
