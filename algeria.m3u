@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="BledTube TV" tvg-logo="" tvg-id="tv.bledtube.com" group-title="Algeria",BledTube TV
+http://tv.bledtube.com:5080/LiveApp/streams/o6WkekslCLDqYcjW53092903160421.m3u8
